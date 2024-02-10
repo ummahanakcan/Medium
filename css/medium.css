@@ -1,0 +1,32 @@
+body{
+   font-family: 'PT Serif', serif;;
+}
+
+.bg-yellow{
+    background-color: #FFC017; 
+}
+
+.border-bottom-dark{
+    border-bottom: 1px solid #242424;
+}
+
+.aside-bottons>li{
+    margin-bottom: 10px;
+}
+
+
+
+#ilk{
+    color:green;
+    text-decoration: none; 
+    
+}
+
+#ilk:hover{
+    color: gray;
+    text-decoration: none;
+}
+
+.border-top-new{
+    border-top: 1px solid #F2F2F2;
+}
